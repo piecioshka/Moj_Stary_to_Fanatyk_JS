@@ -2,7 +2,7 @@
 
 Druga połowa mieszkania zaj***na Światem JS, Podręcznikami do Angulara, Super Scriptem xD itp. Co tydzień ojciec robi objazd po wszystkich księgarniach w mieście, żeby skompletować wszystkie nowe manuale. Byłem na tyle głupi, że nauczyłem go into internety bo myślałem, że trochę pieniędzy zaoszczędzimy na tych manualach ale teraz nie dosyć, że je kupuje to jeszcze siedzi na jakichś forach dla javascriptowców i kręci gównoburze z innymi javascriptowcami o najlepsze biblioteki itp. Potrafi drzeć mordę do monitora albo wypie**olić klawiaturę za okno. Kiedyś ojciec mnie wk***ił to założyłem tam konto i go trolowałem pisząc w jego tematach jakieś losowe głupoty typu npm to guwno. Matka nie nadążała z gotowaniem bigosu na uspokojenie. Aha, ma już na forum rangę NodeMaster, za naj***nie 10k postów."
 
-"Jak jest ciepło to co weekend zapie**ala na spotkania javascriptowców . Od jakichś 5 lat w każdą niedzielę właczam jakiś skrypt a ojciec pie**oli o zaletach programowania w tym gównie. Jak się dostałem na studia to stary przez tydzień pie**olił że to dzięki temu, że umiem programować w Javascript bo jest wolny od platformy i działa na każdym kompie gdzie jest przeglądarka.
+"Jak jest ciepło to co weekend zapie**ala na spotkania javascriptowców . Od jakichś 5 lat w każdą niedzielę włączam jakiś skrypt a ojciec pie**oli o zaletach programowania w tym gównie. Jak się dostałem na studia to stary przez tydzień pie**olił że to dzięki temu, że umiem programować w Javascript bo jest wolny od platformy i działa na każdym kompie gdzie jest przeglądarka.
 
 Co sobotę budzi ze swoim znajomym mirkiem całą rodzinę o 4 w nocy bo hałasują włączając alerty, ściągając nowe updatey do nodejs itd.
 
@@ -16,13 +16,13 @@ Jak któregoś razu, jeszcze w podbazie czy gimbazie, miałem urodziny to stary 
 
 Pojechaliśmy gdzieś wp*zdu za miasto, dochodzimy do hali ojcu już się oczy świecą i oblizuje wargi podniecony. Rozłożył cały sprzęt i siedzimy przy komie i patrzymy na consol logi. Po pięciu minutach mi się znudziło więc włączyłem discmana to mnie ojciec pie**olną klawiaturą po głowie, że skrypty słyszą muzykę z moich słuchawek i się psują. Jak się chciałem podrapać po dupie to zaraz 'krzyczał szeptem', żebym się nie wiercił bo szeleszczę i skrypty z Chroma widzą jak się ruszam i sie wysypują. 6 godzin musiałem siedzieć w bezruchu i patrzeć na konsole jak w jakimś j***nym Guantanamo. Urodziny mam w listopadzie więc jeszcze do tego było zimno jak sam sk***ysyn. W pewnym momencie ojciec odszedł kilkanaście metrów za halę i się sp***ział. Wytłumaczył mi, że trzeba za halą pierdzieć bo inaczej skrypty słyszą i czują.
 
-Wspomniałem, że ojciec ma kolegę mirka, z którym jeździ na hakatony. Kiedyś towarzyszem wypraw skryptowych był hehe Zbyszek. Człowiek o kształcie piłki z wąsem i 365 dni w roku w kamizelce BOMBER. Byli z moim ojcem prawie jak bracia, przychodził z żoną Bożeną na wigilie do nas itd. Raz ojciec miał imieniny zbysio przyszedł na hehe kielicha. Najebali się i oczywiście cały czas gadali o skryptowaniu i htmlu. Ja siedziałem u siebie w pokoju. W pewnym momencie zaczeli drzeć na siebie mordę, czy generalnie lepsze są callbacki czy promisy.
+Wspomniałem, że ojciec ma kolegę mirka, z którym jeździ na hakatony. Kiedyś towarzyszem wypraw skryptowych był hehe Zbyszek. Człowiek o kształcie patyka z brodą i 365 dni w roku w koszulce HTML5. Byli z moim ojcem prawie jak bracia, przychodził z żoną Bożeną na wigilie do nas itd. Raz ojciec miał imieniny zbysio przyszedł na hehe kielicha. Najebali się i oczywiście cały czas gadali o skryptowaniu i htmlu. Ja siedziałem u siebie w pokoju. W pewnym momencie zaczeli drzeć na siebie mordę, czy generalnie lepsze są callbacki czy promisy.
 
->WEŹ MNIE NIE Wk***IAJ ZBYCHU, WIDZIAŁEŚ TY KIEDYŚ JAKIE PROMISY MA WYWOLANIA? JEB i Event Obsłużony kurwa!
+>WEŹ MNIE NIE WK***IAJ ZBYCHU, WIDZIAŁEŚ TY KIEDYŚ JAKIE PROMISY MA WYWOŁANIA? JEB i EVENT OBSŁUŻONY KURWA!
 
->k***A TADEK CALLBACKI W POLSCE PO 80kb WAŻĄ, TWÓJ PROMIS TO IM MOŻE NASKOCZYĆ
+>K***A TADEK CALLBACKI JAK W DOMKNIĘCIACH TO I CAŁY STAN PROGRAMU MOGĄ NOSIĆ, TWÓJ PROMIS TO IM MOŻE NASKOCZYĆ
 
->CO TY MI O CALLBACKACH pie**olISZ JAK LEDWO RETURN POTRAFISZ Z FUNKCJI WYCIĄGNĄĆ. PROMIS TO JEST KRÓL JSa JAK LEW JEST KRÓL DŻUNGLI
+>CO TY MI O CALLBACKACH PIE**OLISZ JAK ASYNCHRONICZNIE TYLKO UMIESZ SETTIMEOUT ZROBIĆ. PROMIS TO JEST KRÓL JSa JAK LEW JEST KRÓL DŻUNGLI
 
 No i aż się zaczeli nak***iać zapasy na dywanie w dużym pokoju a ja z matką musieliśmy ich rodzielać. Od tego czasu zupełnie zerwali kontakt. W zeszłym roku zadzwoniła żona zbysia, że zbysio spadł z fotela i zaprasza na pogrzeb. Odebrała akurat matka, złożyła kondolencje, odkłada słuchawkę i mówi o tym ojcu, a ojciec
 
