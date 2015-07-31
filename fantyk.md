@@ -38,6 +38,7 @@ Jak płacił to przez tydzień w domu się nie dało żyć, ojciec k***ił na pr
 
 Stary jakoś w zeszłym roku stwierdził, że koniecznie musi mieć IDE do kodowania bo niby pisanie w NOTEPAD za wolno wychodzi i wszyscy go chcą oszukać
 >synek w IDE to się prawdziwe skrypty pisze! tam jest żywioł!
+
 ale nie było go stać ani nie miał go gdzie trzymać a hehe frajerem to on nie jest żeby pisaź w nano więc zgadał się z jakimiś programistami w okolicy, że kupią IDE na spółkę, ona będzie stała u jakiegoś janusza, który ma dom a nie mieszkanie w bloku jak my, na kompie na strychu, który ten janusz ma i się będą tym IDE dzielili albo będą jeździć programować razem.
 Na początku ta kooperatywa szła nawet nieźle ale w któryś weekend ojciec się rozchorował i nie mógł z nimi programować i miał o to olbrzymi ból dupy. Jeszcze ci jego koledzy dzwonili, że skrypty piszą jak poj***ne więc mój ojciec tylko leżał czerwony ze złości na kanapie i sapał z wk***ienia. Sytuację jeszcze pogarszało to, że nie miał na kogo zwalić winy co zawsze robi. W końcu doszedł do wniosku, że to niesprawiedliwe, że oni łowią bez niego bo przecież po równo się zrzucali na IDE i w niedzielę wieczorem, jak te janusze już wróciły z wyprawy, wyszedł nagle z domu.
 Po godzinie wraca i mówi do mnie, że muszę mu pomóc z czymś przed domem. Wychodzę na zewnątrz a tam nasz samochód z kompem z IDE xD Pytam skąd on to wziął a on mówi, że januszowi zaj***ł ze strychu nad domem bo oni go oszukali i żeby łapał z nim kompa i wnosimy do mieszkania XD Na nic się zdało tłumaczenie, że zajmie cały duży pokój. Na szczęście komp nie zmieścił się w drzwiach do klatki więc stary stwierdził, że on go przed domem zostawi.
@@ -52,12 +53,15 @@ Po kilkunastu minutach sytuacja wyglądała tak:
 -Ja smutnazaba.psd
 W końcu policjanci oderwali starego od kompa. Ja podałem januszom kod do kłódki rowerowej i zabrali kompa, rzucając wcześniej staremu 500zł i mówiąc, że nie ma już do kompa żadnego prawa i lepiej dla niego, żeby się nigdy na hakatonach nie spotkali. Matka ubłagała policjantów, żeby nie aresztowali ojca. Janusz co dostał w mordę butem powiedział, że on się nie będzie pie**olił z łażeniem po komisariatach i ma to w dupie tylko ojca nie chce więcej widzieć.
 Stary do tej pory robi z januszami gównoburzę na forach dla jsowców bo założyli tam specjalny temat, gdzie przestrzegali przed robieniem jakichkolwiek interesów z moim ojcem. Obserwowałem ten temat i widziałem jak mój ojciec nieudolnie porobił trollkonta
+
 >Szczepan54
 >Liczba postów: 1
 >Ten temat założyli jacyś idioci! Znam użytkownika stary_anona od dawna i to bardzo porządny człowiek i wspaniały frontend! Chcą go oczernić bo zazdroszczą złowionych okazów!
 
 Potem jeszcze używał tych trollkont do prześladowania niedawnych kolegów od łódki. Jak któryś z nich zakładał jakiś temat to ojciec się tam wpie**alał na trollkoncie i np. pisał, ze ch*jowe skrypty pisze i widać, że nie umie kodować XD
 Z tych samych trollkont udzielał się w swoich tematach i jak na przykład wrzucał listingi napisanych przez siebie skrypty to sam sobie pisał
+
 >Noooo gratuluję okazu! Widać, że doświadczony koder!
+
 a potem się z tego cieszył i kazał oglądać mi i starej jak go chwalą na forum."
 
