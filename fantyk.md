@@ -42,24 +42,24 @@ Stary jakoś w zeszłym roku stwierdził, że koniecznie musi mieć oryginalną 
 ale nie było go stać ani nie miał go gdzie trzymać a hehe frajerem to on nie jest żeby zaglądać do neta więc zgadał się z jakimiś programistami w okolicy, że wydrukują ECMA262 na spółkę, ona będzie stała u jakiegoś nolajfa, który nie ma dzieci więc mu nie pomieszają kartek, a oni będą razem z niego korzystać albo pożyczać sobie poszczególne rozdziały.
 Na początku ta kooperatywa szła nawet nieźle ale w któryś weekend ojciec się rozchorował i nie mógł z nimi programować i miał o to olbrzymi ból dupy. Jeszcze ci jego koledzy dzwonili, że eventy bąbelkują jak poj***ne więc mój ojciec tylko leżał czerwony ze złości na kanapie i sapał z wk***ienia. Sytuację jeszcze pogarszało to, że nie miał na kogo zwalić winy co zawsze robi. W końcu doszedł do wniosku, że to niesprawiedliwe, że oni piszą bez niego bo przecież po równo się zrzucali na ECMA i w niedzielę wieczorem, jak te nolajfy skończyły hakaton, wyszedł nagle z domu.
 Po godzinie wraca i mówi do mnie, że muszę mu pomóc z czymś przed domem. Wychodzę na zewnątrz a tam nasz samochód a w nim milion kartek standardu ECMA xD Pytam skąd on to wziął a on mówi, że nolajfowi zaj***ł bo oni go oszukali i żebym z nim zbierał i poukładał po kolei i wnosimy do mieszkania XD Na nic się zdało tłumaczenie, że zajmie cały duży pokój. Na szczęście cały ten stos miał tyle kartek że nie daliśmy rady podskładać, i stary stwierdził  że on go przed domem w kartonie zostawi.
-Za pomocą kensington locka który był przy kompie i kabli Cat5 związał karton i zadowolony chce iść wracać do mieszkania a tu nagle przyjeżdżają 2 samochody z januszami współwłaścicielami, którzy domyślili się gdzie ich własność może się znajdować xD Zaczęła się nieziemska inba bo janusze drą mordy dlaczego kompa ukradł i że ma oddawać a ojciec się drze, że oni go oszukali i on 500zł się składał a nie kodował w ten weekend. Ja starałem się załagodzić sytuację żeby ojciec od nich nie dostał wpie**olu bo było blisko.
+Za pomocą kensington locka który był przy kompie i kabli Cat5 związał karton i zadowolony chce iść wracać do mieszkania a tu nagle przyjeżdżają 2 samochody z januszami współwłaścicielami, którzy domyślili się gdzie ich własność może się znajdować xD Zaczęła się nieziemska inba bo janusze drą mordy dlaczego kompa ukradł i że ma oddawać a ojciec się drze, że oni go oszukali i on 50zł się składał a nie kodował w ten weekend. Ja starałem się załagodzić sytuację żeby ojciec od nich nie dostał wpie**olu bo było blisko.
 Po kilkunastu minutach sytuacja wyglądała tak:
 -Mój ojciec leży na ziemi, kurczowo trzyma się kartonu i krzyczy, że nie odda
 -Nolajfy krzyczą, że ma oddawać
 -Jeden nolajf ma rozj***ny nos bo próbował leżącego ojca odciągnąć od kompa za nogę i dostał drugą nogą z kopa
 -Dwóch policjantów ciągnie ojca za nogi i mówi, że jedzie z nimi na komisariat bo pobił człowieka
 -We wszystkich oknach dookoła stoją sąsiedzi
--Moja stara płacze i błaga ojca żeby zostawił kompa a policjantów żeby go nie aresztowali
+-Moja stara płacze i błaga ojca żeby zostawił karton a policjantów żeby go nie aresztowali
 -Ja smutnazaba.psd
-W końcu policjanci oderwali starego od kompa. Ja podałem januszom kod do kłódki rowerowej i zabrali kompa, rzucając wcześniej staremu 500zł i mówiąc, że nie ma już do wydruków żadnego prawa i lepiej dla niego, żeby się nigdy na hakatonach nie spotkali. Matka ubłagała policjantów, żeby nie aresztowali ojca. Janusz co dostał w mordę butem powiedział, że on się nie będzie pie**olił z łażeniem po komisariatach i ma to w dupie tylko ojca nie chce więcej widzieć.
-Stary do tej pory robi z januszami gównoburzę na forach dla jsowców bo założyli tam specjalny temat, gdzie przestrzegali przed robieniem jakichkolwiek interesów z moim ojcem. Obserwowałem ten temat i widziałem jak mój ojciec nieudolnie porobił trollkonta
+W końcu policjanci oderwali starego od kartonu. Ja podałem januszom kod do kensingtona i zabrali karton, rzucając wcześniej staremu 50zł i mówiąc, że nie ma już do wydruków żadnego prawa i lepiej dla niego, żeby się nigdy na hakatonach nie spotkali. Matka ubłagała policjantów, żeby nie aresztowali ojca. Janusz co dostał w mordę butem powiedział, że on się nie będzie pie**olił z łażeniem po komisariatach i ma to w dupie tylko ojca nie chce więcej widzieć.
+Stary do tej pory robi z nolajfami gównoburzę na forach dla jsowców bo założyli tam specjalny temat, gdzie przestrzegali przed robieniem jakichkolwiek projektów z moim ojcem. Obserwowałem ten temat i widziałem jak mój ojciec nieudolnie porobił trollkonta
 
 >Szczepan54
 >Liczba postów: 1
->Ten temat założyli jacyś idioci! Znam użytkownika stary_anona od dawna i to bardzo porządny człowiek i wspaniały frontend! Chcą go oczernić bo zazdroszczą złowionych okazów!
+>Ten temat założyli jacyś idioci! Znam użytkownika stary_anona od dawna i to bardzo porządny człowiek i wspaniały frontend! Chcą go oczernić bo zazdroszczą napisanych bibliotek!
 
-Potem jeszcze używał tych trollkont do prześladowania niedawnych kolegów od łódki. Jak któryś z nich zakładał jakiś temat to ojciec się tam wpie**alał na trollkoncie i np. pisał, ze ch*jowe skrypty pisze i widać, że nie umie kodować XD
-Z tych samych trollkont udzielał się w swoich tematach i jak na przykład wrzucał listingi napisanych przez siebie skrypty to sam sobie pisał
+Potem jeszcze używał tych trollkont do prześladowania niedawnych kolegów od ECMA. Jak któryś z nich zakładał jakiś temat to ojciec się tam wpie**alał na trollkoncie i np. pisał, ze ch*jowe skrypty pisze i widać, że nie umie kodować XD
+Z tych samych trollkont udzielał się w swoich tematach i jak na przykład wrzucał listingi napisanych przez siebie skryptów to sam sobie pisał
 
 >Noooo gratuluję okazu! Widać, że doświadczony koder!
 
